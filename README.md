@@ -11,10 +11,11 @@ Com sua longa série temporal, o SIM é um patrimônio nacional, pois possui inf
 Uma das informações disponíveis no SIM é a causa básica de óbito, a qual é codificada a partir das informações declaradas pelo médico atestante, segundo regras estabelecidas pela Organização Mundial de Saúde.
 
 Para fins de definição, as DCNT são divididas em 4 grandes grupos de doenças, considerando-se os códigos que constam na 10ª revisão da [Classificação Internacional de Doenças (CID-10)](http://www2.datasus.gov.br/cid10/V2008/cid10.htm), listados a seguir:
-    • C00 - C97 Neoplasias 
-    • E10 - E14 Diabetes 
-    • I00 - I99 Doenças Cardiovasculares
-    • J30- J98 Doenças Respiratória Crônicas
+
+* C00 - C97 Neoplasias 
+* E10 - E14 Diabetes 
+* I00 - I99 Doenças Cardiovasculares
+* J30- J98 Doenças Respiratória Crônicas
 
 As DCNT representam um dos principais desafios de saúde pública, tanto pela alta prevalência como pela rapidez com que adquiriram destaque como principais causas de morte no Brasil e no mundo.
 
