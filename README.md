@@ -15,7 +15,7 @@ Para fins de definição, as DCNT são divididas em 4 grandes grupos de doenças
 * C00 - C97 Neoplasias 
 * E10 - E14 Diabetes 
 * I00 - I99 Doenças Cardiovasculares
-* J30- J98 Doenças Respiratória Crônicas
+* J30- J98 Doenças Respiratórias Crônicas
 
 As DCNT representam um dos principais desafios de saúde pública, tanto pela alta prevalência como pela rapidez com que adquiriram destaque como principais causas de morte no Brasil e no mundo.
 
