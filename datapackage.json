@@ -228,6 +228,20 @@
         "dialect": {
           "delimiter": ";"
         }
+      },
+      {
+        "path": "data/dados_cronicas_ses_2024.csv",
+        "name": "dados_cronicas_ses_2024",
+        "title": "Doenças Crônicas SES 2024",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8",
+        "schema": "schemas/schema_v1.json",
+        "dialect": {
+          "delimiter": ";"
+        }
       }
     ],
     "profile": "data-package"
